@@ -1,6 +1,6 @@
 # 🎟️ Discord Raffle Bot for EmeraldTCG
 
-I built this bot for the biggest Pokémon Discord server (1000+ members), and it’s used daily! Users can start raffles, join spots, and track payments. It makes managing giveaways easy and interactive for the community. ⚡
+I built this bot for the Biggest Pokémon Discord server in Ireland (1000+ members), and it’s used daily! Users can start raffles, join spots, and track payments. It makes managing giveaways easy and interactive for the community. ⚡
 
 ---
 
