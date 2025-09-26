@@ -679,3 +679,4 @@ async def update_spots_message(state):
 
 # Run the bot
 bot.run(token)
+
